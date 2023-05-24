@@ -58,7 +58,7 @@ body {
       justify-content: center;
       align-items: center;
       height: 100vh;
-      margin-top: -30vh;
+      margin-top: -10vh;
       z-index: 2;
     }
 
@@ -276,7 +276,7 @@ input[type="checkbox"] {
       justify-content: center;
       align-items: center;
       height: 100vh;
-      margin=top: -30vh;
+      margin=top: -10vh;
     }
 
     /* Gaya untuk tombol */
