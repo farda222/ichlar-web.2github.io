@@ -58,6 +58,7 @@ body {
       justify-content: center;
       align-items: center;
       height: 100vh;
+      margin=top: -50vh;
     }
 
     /* Gaya untuk tombol */
@@ -65,7 +66,7 @@ body {
       padding: 15px 30px;
       font-size: 18px;
       border-radius: 5px;
-      background-color: #4CAF50;
+      border: 1px solid #fff;
       color: white;
       text-decoration: none;
     }
@@ -183,6 +184,7 @@ input[type="checkbox"] {
       justify-content: center;
       align-items: center;
       height: 100vh;
+      margin=top: -50vh;
     }
 
     /* Gaya untuk tombol */
@@ -190,7 +192,7 @@ input[type="checkbox"] {
       padding: 15px 30px;
       font-size: 18px;
       border-radius: 5px;
-      background-color: #4CAF50;
+      border: 1px solid #fff;
       color: white;
       text-decoration: none;
     }
@@ -272,6 +274,7 @@ input[type="checkbox"] {
       justify-content: center;
       align-items: center;
       height: 100vh;
+      margin=top: -50vh;
     }
 
     /* Gaya untuk tombol */
@@ -279,7 +282,7 @@ input[type="checkbox"] {
       padding: 15px 30px;
       font-size: 18px;
       border-radius: 5px;
-      background-color: #4CAF50;
+      border: 1px solid #fff;
       color: white;
       text-decoration: none;
     }
